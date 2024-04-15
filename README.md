@@ -1,5 +1,7 @@
 # Text Encryptor
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 Text Encryptor is a Python program used to encrypt and decrypt texts. The program provides users with options to encrypt or decrypt their texts using an encryption table.
 
 ## Introduction
