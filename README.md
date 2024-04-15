@@ -15,10 +15,10 @@ This Python program serves as a tool to encrypt and decrypt texts using a simple
 
 ## Usage
 
-To run the program, ensure you have Python 3 installed on your system. Then, navigate to the directory containing the `text_encryptor.py` file and execute the following command:
+To run the program, ensure you have Python 3 installed on your system. Then, navigate to the directory containing the `main.py` file and execute the following command:
 
  ```bash
-    pip install -r requirements.txt
+    python main.py
  ```
 Follow the on-screen prompts to perform encryption, decryption, or manage the encryption table.
 
